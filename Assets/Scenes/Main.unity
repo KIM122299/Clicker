@@ -2187,7 +2187,7 @@ GameObject:
   - component: {fileID: 1804967717}
   - component: {fileID: 1804967716}
   m_Layer: 0
-  m_Name: UICtrl
+  m_Name: Button_Ctrl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
