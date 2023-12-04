@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MON_HPBAR
+  - MONSTER
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Skill_BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3494374431
+    locked: 0
+  - name: Ground
+    uniqueID: 1373919515
+    locked: 0
+  - name: Skill_BackGround
+    uniqueID: 4210087397
+    locked: 0
+  - name: UI
+    uniqueID: 1451660631
+    locked: 0
+  - name: Canvers
+    uniqueID: 431351903
+    locked: 0
+  - name: Monster
+    uniqueID: 2194488555
+    locked: 0
